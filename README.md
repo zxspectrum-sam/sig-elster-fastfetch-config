@@ -3,7 +3,7 @@
 
 it uses the example config 25, i just did the ascii art and the coloring
 
-<img width="1215" height="633" alt="изображение" src="https://github.com/user-attachments/assets/b792e4f3-0656-408e-8f5a-ccb133e93ee6" />
+<img width="1202" height="674" alt="изображение" src="https://github.com/user-attachments/assets/b343077f-d24f-4bb8-a4ec-ba8c19c0850f" />
 
 it also works on windows...
 
